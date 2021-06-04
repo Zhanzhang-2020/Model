@@ -1,0 +1,2 @@
+Find_focused_slices.class
+ComDet == 0.5.5
